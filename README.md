@@ -3,7 +3,7 @@
 - 🔭 I’m passionate about Data Science and Analytics
 - 🌱 I’m currently learning Python, R, SQL and Pentaho
 - 👯 I’m looking to collaborate on Data Automation and Analysis projects
-- 💬 Ask me about anything related to Data Science and Machine Learning
+- 💬 Ask me about anything related to Machine Learning, Deep Learning and Neural Network
 - 📫 How to reach me: deeridwan9747@gmail.com
 
 ## Education:
@@ -33,18 +33,18 @@
 
 ---
 ## Virtual-Internship | Project:
-#### 1. [British Airways Data Science Job Simulation on Forage](https://drive.google.com/file/d/1Bcxcna7Rf5ufBgK-CFrFzFb9XcGEY_Ha/view?usp=sharing) - `Apr '2024'`
+#### 1. [British Airways Data Science Job Simulation on Forage](https://drive.google.com/file/d/1Bcxcna7Rf5ufBgK-CFrFzFb9XcGEY_Ha/view?usp=sharing) | `Apr '2024'`
    - Completed a simulation focussing on how data science is a critical component of British Airways success
    - Scraped and analysed customer review data to uncover findings
    - Built a predictive model to understand factors that influence buying behaviour
 
-#### 2. [PwC Switzerland Power BI Job Simulation on Forage](https://drive.google.com/file/d/1KfdWZxUYmVxNU-ogio7OJvwF9NGahlLK/view?usp=sharing) - `Jan '2024'`
+#### 2. [PwC Switzerland Power BI Job Simulation on Forage](https://drive.google.com/file/d/1KfdWZxUYmVxNU-ogio7OJvwF9NGahlLK/view?usp=sharing) | `Jan '2024'`
    - Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
    - Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
    - Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
    - Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
-#### 3. [KPMG AU Data Analytics Job Simulation on Forage](https://drive.google.com/file/d/1kuB6Wd5S2vgBFlqOFVodjwIM68-T7T0T/view?usp=sharing) - `Nov '2023'`
+#### 3. [KPMG AU Data Analytics Job Simulation on Forage](https://drive.google.com/file/d/1kuB6Wd5S2vgBFlqOFVodjwIM68-T7T0T/view?usp=sharing) | `Nov '2023'`
    - Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
    - Assessed data quality and completeness in preparation for analysis
    - Analysed data to target high-value customers based on demographics and attributes
